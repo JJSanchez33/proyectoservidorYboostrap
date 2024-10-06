@@ -1,0 +1,28 @@
+{
+  "name": "proyectoservidoryboostrap",
+  "version": "1.0.0",
+  "description": "mi primer trabajo con boostra y node",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JJSanchez33/proyectoservidorYboostrap.git"
+  },
+  "author": "jhon jader sanchez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JJSanchez33/proyectoservidorYboostrap/issues"
+  },
+  "homepage": "https://github.com/JJSanchez33/proyectoservidorYboostrap#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "jquery": "^3.7.1",
+    "popper.js": "^1.16.1"
+  }
+}
